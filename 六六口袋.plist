@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.xxxx.demo</string>
+				<string>com.365sji.DemoGuidePag</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
